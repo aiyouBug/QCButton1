@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "QCButton" # 项目名称
-  s.version      = "0.0.1"        # 版本号 与 你仓库的 标签号 对应
+  s.version      = "0.0.2"        # 版本号 与 你仓库的 标签号 对应
   s.license      = "MIT"          # 开源证书
   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.summary      = "这是一个可以调整Button图片显示方向的SDK" # 项目简介
